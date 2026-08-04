@@ -1,18 +1,13 @@
 # Yevgeniy Sorokin
 
-Senior Frontend Engineer — 5+ years of commercial Angular (9–21) and TypeScript on data-heavy products.
+Senior Frontend Engineer — Angular · TypeScript · data-heavy products.
 
-Two things about me.
+I build with an AI-native pipeline: Claude Code and Codex in separate roles, my own Python tooling structuring their tasks and verifying every result. The green wall below — **38,387 contributions in the last year** — is what that looks like in practice.
 
-**First, how I work.** Claude Code and Codex, 20+ agents in separate roles — no agent reviews its own work. Python tooling I built structures their tasks and verifies the output; nothing lands unverified. The green wall below — **38,387 contributions in the last year** — is that pipeline. Since April 2026 I've been building my own web product this way: Angular 21 · NestJS · PostgreSQL · Docker · CI.
+Since April 2026 I've been building my own web product: Angular 21 · NestJS · PostgreSQL · Docker · CI.
 
-**Second, the years before agents.**
+Before that — five years of commercial frontend with remote teams in Berlin and Toronto: enterprise B2B real estate, interactive graph visualization, white-label platforms.
 
-- Berlin, remote (B2B real estate) — replaced a failing form engine, rebuilt the platform's forms architecture.
-- Toronto (agency, client projects) — vis.js/cytoscape graph visualization, layouts tuned so dense data reads clearly; one workflow cut by 60%.
-- Daily: RxJS · Signals · NgRx/NGXS · GraphQL · WebSockets · Jest · Playwright.
-- 59 public repos: mostly old experiments. Recent work is private.
+Recent work is private; the public repos here are older experiments.
 
-Glad to share code samples or take a test task.
-
-[LinkedIn](https://www.linkedin.com/in/yevgeniy-sorokin-829b7b18a/) · ewgenij87snwork@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/yevgeniy-sorokin-829b7b18a/) · ewgenij87snwork@gmail.com
