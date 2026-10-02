@@ -2,39 +2,37 @@
 
 # Yevgeniy Sorokin
 
-**Senior Frontend Engineer · Product Engineering · Angular/TypeScript · Open-source developer tools**
+**Senior Software Engineer | Frontend & Full-Stack Product Engineering | Angular/TypeScript | System Design | AI Tooling**
 
-<img alt="Angular 9–21" src="https://img.shields.io/badge/Angular_9–21-DD0031?style=flat-square&logo=angular&logoColor=white"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"> <img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white">
-
-</div>
-
-<br>
-
-> ### My work used to end at the browser. It doesn't anymore.
->
-> Now I build complete applications, tools that need no web at all, and systems that connect other systems — each doing its part so I can do mine. There is a quiet joy in this: my reach finally matches my imagination.
-
-
-## Current open-source work
-
-### [Clean Room Launcher](https://github.com/ewgenij87snwork/clean-room-launcher)
-
-Launch Codex and Claude Code with clean, selective context on macOS.
-
-Project context stays available. Unrelated global instructions and unselected global skills stay out. Add only the skills or reusable sets needed for that run.
-
-Rust · macOS · Codex CLI · Claude Code · MPL-2.0
-
-## Commercial background
-
-Five years of commercial frontend engineering across international product teams, complex B2B platforms, and client-facing product development.
-
-* Enterprise B2B real-estate product development in a large, domain-heavy web platform.
-* Product delivery across multiple client codebases, including interactive graph visualization and White Label integration layer for a B2C.
-* Web3 product development — frontend product work including MetaMask integration and wallet-connected experiences.
-
-<div align="center">
-
-**[LinkedIn](https://www.linkedin.com/in/yevgeniy-sorokin-829b7b18a/)** · **ewgenij87snwork@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/yevgeniy-sorokin-829b7b18a/) · [CLROOM repository](https://github.com/y-sor/clean-room-launcher) · [CLROOM documentation](https://y-sor.github.io/clean-room-launcher/)
 
 </div>
+
+## Engineering focus
+
+I have 5+ years of commercial frontend engineering, deepest in Angular and TypeScript. I have worked in mature product codebases across enterprise real estate, white-label B2B and energy workflows, graph visualization and Web3. The difficult part was usually not a screen in isolation, but the state, data, business rules and boundaries behind it.
+
+My current independent work extends that depth across NestJS, PostgreSQL/Prisma, React/Next.js, testing, CI/CD and end-to-end product delivery. I focus on product systems, existing-system evolution, System Design, debugging, verification and reliability.
+
+I also build developer tooling around AI-assisted engineering. My workflow uses explicit specifications, verification and human approval rather than treating generated output as trusted by default.
+
+## Inspectable proof
+
+### [Clean Room Launcher (CLROOM)](https://github.com/y-sor/clean-room-launcher)
+
+An open-source Rust developer tool for clean/selective Codex and Claude Code launches. It is an independent project and is not affiliated with OpenAI or Anthropic.
+
+- [Implementation and source](https://github.com/y-sor/clean-room-launcher/tree/main/src)
+- [Tests and qualification](https://github.com/y-sor/clean-room-launcher/tree/main/tests)
+- [Releases and install artifacts](https://github.com/y-sor/clean-room-launcher/releases)
+- [Documentation, compatibility and limitations](https://y-sor.github.io/clean-room-launcher/)
+
+These are four independently inspectable proof surfaces for one maintained project. Release assets include checksums and provenance materials; consult the current release for exact artifacts and verification steps.
+
+## Current independent work
+
+Independent software engineering across product development and AI tooling. Current work includes Angular/TypeScript interfaces, NestJS APIs, PostgreSQL/Prisma data flows, React/Next.js projects, testing, CI/CD and release work.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/yevgeniy-sorokin-829b7b18a/) · [GitHub profile](https://github.com/ewgenij87snwork)
