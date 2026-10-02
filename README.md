@@ -2,9 +2,9 @@
 
 # Yevgeniy Sorokin
 
-**Senior Software Engineer | Frontend & Full-Stack Product Engineering | Angular/TypeScript | AI Tooling**
+**Sr. Frontend / Fullstack | AI Tooling | CLROOM OSS (Clean Room Launcher)**
 
-[Personal Proof Index](https://yevgeniy-sorokin.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/yevgeniy-sorokin-829b7b18a/) · [CLROOM](https://github.com/y-sor/clean-room-launcher)
+[Portfolio](https://yevgeniy-sorokin.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/yevgeniy-sorokin-829b7b18a/) · [CLROOM](https://github.com/y-sor/clean-room-launcher)
 
 </div>
 
@@ -31,4 +31,4 @@ My current independent projects also use NestJS, PostgreSQL/Prisma, React/Next.j
 
 ## Links
 
-[Personal Proof Index](https://yevgeniy-sorokin.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/yevgeniy-sorokin-829b7b18a/)
+[Portfolio](https://yevgeniy-sorokin.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/yevgeniy-sorokin-829b7b18a/)
