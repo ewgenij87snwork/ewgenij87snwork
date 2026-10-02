@@ -4,7 +4,7 @@
 
 **Senior Software Engineer | Frontend & Full-Stack Product Engineering | Angular/TypeScript | System Design | AI Tooling**
 
-[LinkedIn](https://www.linkedin.com/in/yevgeniy-sorokin-829b7b18a/) · [CLROOM](https://github.com/y-sor/clean-room-launcher) · [CLROOM documentation](https://y-sor.github.io/clean-room-launcher/)
+[Personal Proof Index](https://yevgeniy-sorokin.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/yevgeniy-sorokin-829b7b18a/) · [CLROOM](https://github.com/y-sor/clean-room-launcher) · [CLROOM documentation](https://y-sor.github.io/clean-room-launcher/)
 
 </div>
 
@@ -33,4 +33,4 @@ Independent software engineering across product development and AI tooling, incl
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/yevgeniy-sorokin-829b7b18a/) · [GitHub profile](https://github.com/ewgenij87snwork)
+[Personal Proof Index](https://yevgeniy-sorokin.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/yevgeniy-sorokin-829b7b18a/)
